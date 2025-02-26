@@ -1,6 +1,6 @@
 [project]
 name = "pytest-expected"
-version = "0.1.0"
+version = "0.1.1"
 description = "Record and play back your expectations"
 authors = [
     {"name" = "L3viathan", "email" = "python@l3vi.de"},
